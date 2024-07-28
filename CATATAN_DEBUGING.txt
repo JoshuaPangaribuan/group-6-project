@@ -1,0 +1,23 @@
+# DIM CRUD PHP
+Tugas kelompok 6 : CRUD - Introduction to Data and Information Management - Group 6 - BINUS
+
+Kelas : D2BA
+Tugas : TK - 4 (Tugas Kelompok 6)
+
+
+
+Instalation
+
+> - Download source code dengan clone bisa menggunakan gitlab dengan copy link di atas
+> - install xampp
+> - Running xampp
+> - letakkan file tugas-group6 di file htdocs
+> - buka link di bawah ini 
+```
+http://localhost:8080/tugas-group6/index.php
+```
+> - import file sql untuk di jadikan db di database di dalam folder DATABASE -> SQL.sql di import menjadi binus_dim
+> - jika sudah selesai running menggunakan link di bawah ini   
+```
+http://localhost:8080/tugas-group6/index.php
+```
